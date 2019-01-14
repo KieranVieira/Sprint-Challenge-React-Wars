@@ -12,7 +12,7 @@ const Dog = props => {
                         return <p>{attribute}</p>
                     }
                     else{
-                        return <p>No attribute data</p>
+                        return <p>None</p>
                     }
                 })}
             </div>
